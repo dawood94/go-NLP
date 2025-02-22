@@ -48,13 +48,12 @@ Before setting up the project locally, ensure you have the following:
 
 2. **Interact with the bot** 💬  
    In your Slack workspace, send a message to the bot in the following format:
-   ```
+   
    My question is - <your question>
-   ```
+   
    For example:
-   ```
+   
    My question is - What is the capital of Germany?
-   ```
 
    The bot will process your question using Wit.ai, send it to Wolfram Alpha, and reply with the answer. 🎉
 
@@ -74,10 +73,10 @@ This project uses the following Go packages:
 ## ✨ Example Interaction
 
 **User**:  
-`My question is - What is the speed of light?`
+My question is - What is the speed of light?
 
 **Bot**:  
-`Wolfram answers: The speed of light in a vacuum is approximately 299,792 kilometers per second.`
+Wolfram answers: The speed of light in a vacuum is approximately 299,792 kilometers per second.
 
 ---
 
