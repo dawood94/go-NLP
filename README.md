@@ -10,16 +10,16 @@ This project is a **Slack bot** that allows users to ask questions and receive a
 Before setting up the project locally, ensure you have the following:
 
 1. **Go** 
-   Make sure Go is installed on your system. You can download it [here](https://golang.org/dl/).
+   Make sure Go is installed on your system. You can download it [here](https://golang.org/dl/)
 
 2. **Slack** 💬  
-   You need a Slack workspace and a Slack bot token. Create a new bot in your Slack workspace and obtain the bot token.[Slac(https://app.slack.com/).
+   You need a Slack workspace and a Slack bot token. Create a new bot in your [Slack](https://app.slack.com/) workspace and obtain the bot token.
 
 3. **Wit.ai** 🧠  
-   Create a Wit.ai account and set up a new app. Obtain the Wit.ai token.[Wit](https://wit.ai/apps).
+   Create a Wit.ai account and set up a new app. Obtain the [Wit](https://wit.ai/apps).ai token.
 
 4. **Wolfram Alpha** 🔢  
-   Create an account on Wolfram Alpha and obtain an App ID.[Wolfram](https://developer.wolframalpha.com/).
+   Create an account on [Wolfram](https://developer.wolframalpha.com/) Alpha and obtain an App ID.
 
 5. **Environment Variables** 🔑  
    Create a `.env` file in the root directory of the project with the following variables:
